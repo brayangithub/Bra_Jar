@@ -8,5 +8,8 @@ public class HolaMundo {
        System.out.println("Hola Compadrito");
        Scanner captura= new Scanner(System.in);
        String nombre;
+
+	//aqui creamos un comentario... esperemos que Jair nos
+	// colabore en serio algun dia
     }
 }
