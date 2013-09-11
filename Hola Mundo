@@ -1,0 +1,12 @@
+import java.util.Scanner;
+package hola.mundo;
+
+public class HolaMundo {
+
+   
+    public static void main(String[] args) {
+       System.out.println("Hola Compadrito");
+       Scanner captura= new Scanner(System.in);
+       String nombre;
+    }
+}
